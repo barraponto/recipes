@@ -2,7 +2,7 @@ Needs:
 - 1 cup flour
 - 1 cup milk
 - 1 tablespoon oil
-- 1 egg
+- 1 unit egg
 - 1 pinch salt
 
 Steps:
