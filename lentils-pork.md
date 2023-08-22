@@ -1,9 +1,9 @@
 # Lentils with Pork
 ## Ingredients
-- 250g lentils
-- 250g pork
-- salt
-- bay leaf
+250g lentils
+250g pork
+salt
+bay leaf
 
 ## Steps
 1. stir fry the pork
