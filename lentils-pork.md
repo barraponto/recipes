@@ -1,10 +1,11 @@
-Needs:
+# Lentils with Pork
+## Ingredients
 - 250g lentils
 - 250g pork
 - salt
 - bay leaf
 
-Steps:
+## Steps
 1. stir fry the pork
 2. put the pork in the pressure cooker
 3. put the lentils in the pressure cooker
