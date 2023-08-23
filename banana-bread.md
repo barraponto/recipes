@@ -1,4 +1,4 @@
-# Banana Bread
+# Banana Bread (30 min)
 ## Ingredients
 2 eggs
 3 bananas, cut in small pieces

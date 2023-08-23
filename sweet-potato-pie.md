@@ -1,4 +1,4 @@
-# Sweet Potato Pie
+# Sweet Potato Pie (40 min)
 ## Ingredients
 4 sweet potatoes, boiled and drained
 2 sticks butter

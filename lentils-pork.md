@@ -1,4 +1,4 @@
-# Lentils with Pork
+# Lentils with Pork (30 min)
 ## Ingredients
 250g lentils
 250g pork

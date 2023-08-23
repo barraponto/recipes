@@ -1,4 +1,4 @@
-# Zucchini-Artichoke Continental
+# Zucchini-Artichoke Continental (40 min)
 ## Ingredients
 1 (9 oz.) pkg. frozen artichoke hearts
 2 Tbsp. water

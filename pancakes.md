@@ -1,4 +1,4 @@
-# Pancakes
+# Pancakes (5 min)
 ## Ingredients
 1 cup flour
 1 cup milk
